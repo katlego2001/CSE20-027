@@ -1,0 +1,128 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: gray;
+    background-image: url(Images/MountView.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;   
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.33);
+    padding-top: 14px;
+    padding-bottom: 14px; 
+    text-align: center;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.72);
+    padding-top: 50px;
+    padding-bottom: 50px;  
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial;
+}
+
+a {
+    color: white;
+    font-family: Arial;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 14px;
+    padding-right: 12px;
+    padding-left: 14px;
+}
+
+footer p{
+    font-size: 10px;
+    text-align: center;
+}
+
+main p{
+    font-family: Arial;
+}
+
+main a {
+    color: black
+}
+
+
+.events {
+    font-family: Arial;
+    color: white;
+    background-image: url(Images/ash-edmonds-uztw2giebSc-unsplash.jpg); 
+    font-size: 20px;
+    background-size: cover;
+    margin-bottom: 100px;
+    background-color: rgb(12, 12, 12)
+
+}
+.events h1{
+    font-size:20px ;
+}
+
+.events div{
+    width: 1024px;
+    height: auto;
+    border: solid black;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.events h6 {
+    text-align: center;
+}
+
+
+.about {
+    background-image: url(Images/The-Tower.jpg);
+    font-family: Arial;
+}
+
+
+.about h2 {
+text-align: center;
+}
+
+.about div {    
+    background-color: rgba(255, 255, 255, 0.398);
+    width: 1024px;
+    height: auto;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top: 270px;
+}

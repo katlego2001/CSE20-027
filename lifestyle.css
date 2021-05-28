@@ -1,0 +1,48 @@
+body {
+    background-image: url(Images/Streets-at-Night.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lifestyle {
+font-family: Arial;
+margin-left: auto;
+margin-right: auto;   
+width: 1024px;
+}
+
+div.polaroid {
+  width: 60%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+  width: 1024px ;
+}
+.head {
+text-align: center;
+text-decoration: solid;
+color: powderblue;
+font-size: 30px;
+}
+
+main {
+    border: solid black 02px ;
+    background-color:plum ;
+    background-blend-mode: luminosity;
+    margin-top: 55px;
+    width: 1024px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+section {
+    margin-right: auto;
+    margin-left: auto;
+}
